@@ -1,6 +1,6 @@
 # Coders of Delhi - Pure Python Social Network Analysis
 
-Welcome to the **Coders of Delhi** internship project, built during a 1-month Data Science internship at CodeBook — a Delhi-based social media platform for coders. This project demonstrates end-to-end data handling and feature engineering using **pure Python**, without external libraries like pandas or NumPy.
+A pure Python data science project simulating social network features like "People You May Know" and "Pages You Might Like" using JSON data. Includes data cleaning, user-page analysis, and recommendation logic — all without pandas or external libraries.
 
 ## 🔍 Project Overview
 
